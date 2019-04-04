@@ -1,0 +1,7 @@
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\bin\Debug\Penta_Course02.exe.config
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\bin\Debug\Penta_Course02.exe
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\bin\Debug\Penta_Course02.pdb
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\obj\Debug\Penta_Course02.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\obj\Debug\Penta_Course02.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\obj\Debug\Penta_Course02.exe
+C:\Users\Danny\source\repos\Penta_Course02\Penta_Course02\obj\Debug\Penta_Course02.pdb
